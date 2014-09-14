@@ -1,0 +1,25 @@
+{
+    "title": null,
+    "description": null,
+    "github": null,
+    "githubHost": "https://github.com/",
+    "plugins": [],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    },
+    "links": {
+        "home": null,
+        "about": false,
+        "issues": false,
+        "contribute": false,
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false
+        }
+    }
+}

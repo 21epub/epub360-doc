@@ -3,3 +3,10 @@ build
 
 *.html
 Thumbs.db
+
+book
+_book
+*.epub
+*.mobi
+*.pdf
+node_modules
