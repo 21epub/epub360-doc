@@ -1,69 +1,57 @@
 Epub360用户手册
 ================
 
-### 关于Epub360
+## 关于Epub360
 
-Epub360.com，是一款在线使用的交互内容设计平台，无需编程，即可跨平台发布应用程序、APP和微信微网页应用。
+Epub360.com，是为专业设计师精心打造的交互设计利器。无需编程、在线设计商业级跨平台交互作品。
 
-**针对领域**
+###针对领域
+
+Epub360作为一款交互设计工具，可针对如下应用领域设计制作：
 
 - 电子交互杂志
 - 儿童互动读物
 - 商业品牌展示
 - 公司产品介绍
-- 培训课件
-- 电子楼书
-- 触摸屏系统
+- 交互培训课件
+- 电子楼书应用
+- 触摸屏展示系统
 - 微信轻应用：包括互动邀请函、微信产品发布、微信互动贺卡...
 
-**可发布格式**
+###可发布格式
 
-- iPad/iPhone APP
-- AppleStoreAPP
+基于Epub360设计创作的内容，可以依托于Epub360在线发布、也可以自行导出交付，从而面满足各种商业交付需求。
+
+Epub360所支持的导出格式包括：
+
+- iPad/iPhone APP：可通过AppStore发布
 - Android APP
 - Windows EXE
-- 微信微网页应用
+- 微信轻应用
 
-### 关于用户手册内容
+针对iOS平台，还支持自定义独立书架APP，便于多个内容聚合、通过统一渠道发布展示，可用于电子杂志书架APP、企业内部书架APP等。
 
-本用户手册将将分5课，围绕制作汽车主题的交互内容，介绍了Epub360常用功能。整个过程需要30分钟左右。
+###平台特点
 
-![](images/interaction-book.png)
-
-在开始学习本教程内容之前，需要完成以下准备：
-
-- 注册Epub360帐号
-- 使用合适的浏览器
-- 安装Epub360 IPad APP
-- 下载素材包
-
-### 开始使用Epub360
-
-1. 请首先确保自己有一个Epub360的用户帐号，可通过[Epub360注册页面](http://www.epub360.com/accounts/register/)注册获取。
-2. 为了确保最佳的使用体验，建议使用如下任意浏览器：
-
-  - [谷歌Chrome浏览器](http://www.google.com/intl/zh-CN/chrome/)
-  - [苹果Safari浏览器](http://support.apple.com/zh_CN/downloads/#safari)
-  - [Firefox浏览器](https://www.mozilla.org/en-GB/firefox/new/)
-  - [猎豹安全浏览器](http://www.liebao.cn/)
-  - [搜狗高速浏览器](http://ie.sogou.com/)
-  - [IE10以上版本浏览器](http://windows.microsoft.com/zh-cn/internet-explorer/download-ie)
-
-> 提示：**360安全／极速浏览器**、**IE10以下版本浏览器** 无法有效地支持Epub360
+- 基于浏览器可在线使用
+- 所有功能永久免费体验
+- 像PPT一样操作简单、容易上手
+- 功能设计符合设计师思维
+- 可设计完成商业级交互作品
 
 
-3. 安装Epub360 APP，查看案例，还可以在iPad上登录预览
+## 开始使用Epub360
 
+1. 确保已获取Epub360用户帐号，可通过[Epub360注册页面](http://www.epub360.com/accounts/register/)注册；
+2. 建议采用Chrome浏览器。浏览器支持情况详见“[使用须知/浏览器要求](need_to_know/system.md)”；
+3. 安装Epub360 APP，以便查看案例、并实时预览自己的内容iOS APP。
 
-请在IPad访问网址[http://app.epub360.com](http://app.epub360.com)下载安装APP，或通过IPad扫描二维码安装。
+用IPad访问网址[http://app.epub360.com](http://app.epub360.com)下载安装APP，或通过IPad扫描二维码安装。
 
 ![Epub360 APP](./images/epub360_app_qrcode.png)
 
-> **提示:**  IPad并非必须，即使手头没有，一样也可以完成学习.
 
-
-
-### 支持与帮助
+## 支持与帮助
 
 在学习使用过程中，如有任何问题，欢迎通过以下方式联系我们：
 
